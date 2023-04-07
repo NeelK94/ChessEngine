@@ -1,2 +1,2 @@
 # ChessEngine
-Python chess engine
+Python chess engine using pygame.
